@@ -7,14 +7,14 @@ Amazon UK: til.bi/TableauDesktopCookbookUK
 Amazon US: til.bi/TableauDesktopCookbookUS
 
 Datasets Required:
-Sample Superstore Per Year
-Customer Details
-Monthly Sales Targets
-Airports Destinations
-Airports Origins
+- Sample Superstore Per Year
+- Customer Details
+- Monthly Sales Targets
+- Airports Destinations
+- Airports Origins
 
 Additional Datasets for testing:
-Formatted Sample Superstore
-Sample Json File
+- Formatted Sample Superstore
+- Sample Json File
 
 Workbook
